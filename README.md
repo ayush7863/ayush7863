@@ -1,15 +1,16 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&pid=Api&P=0"/> -->
-![logo](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJvNDNsbXI0bjlka2tzNGY3NmR5NGZqMGs5c3FkM2Fxc2tqanRocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" /></p>
 <h1 align="center">Hi 👋, I'm Ayush Kaushik</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&pid=Api&P=0"/>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0Z3Rubng4azkzZGhzZmUzMzZtYnF2NWVxeHV0c3E4cmE2aDk3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush7863&label=Profile%20views&color=0e75b6&style=flat" alt="ayush7863" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/ayush-kaushik-81418a250/" target="blank"><img src="https://img.shields.io/twitter/follow/ayushkaushik?logo=twitter&style=for-the-badge" alt="ayushkaushik" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I'm a Software Engineer building scalable products with modern tech stacks
 
 - 👨‍💻 All of my projects are available at [https://ayush7863.github.io/](https://ayush7863.github.io/)
 
